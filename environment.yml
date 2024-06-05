@@ -1,0 +1,17 @@
+name: myenv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8 
+  - ipywidgets
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - h5py
+  - pyyaml
+  - requests
+  - pip
